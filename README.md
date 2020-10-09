@@ -4,5 +4,5 @@ Predict if two real estate listings are the same without using any location feat
 * Developed features using a Word2Vec model to calculate cosine similarities of titles and descriptions
 * Applied a Histogram-based Gradient Boosting Classification Tree 
 * 81% accuracy achieved
-* Built a Local Flask App to deploy the model locally 
+* Built an HTML webpage and Flask App to deploy the model locally simulating real time responses
 
